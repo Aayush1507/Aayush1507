@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayush1507
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Pyyhon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Software development (Python) Who can teach me and give me work too.
 - 📫 How to reach me Email = aayushkharbandas@gmail.com
 <!---
